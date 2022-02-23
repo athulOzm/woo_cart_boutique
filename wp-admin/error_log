@@ -1,0 +1,16 @@
+[17-Jan-2022 05:57:36 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:37 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:38 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:39 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:41 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:42 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:43 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 05:57:46 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/scrubped/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Jan-2022 15:12:40 UTC] [Loco.error] "Translation set not known in WooCommerce" in src/admin/bundle/BaseController.php:69
+[17-Jan-2022 15:12:40 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:164
+[17-Jan-2022 15:34:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/scrubped/public_html/wp-includes/class-wp-image-editor-imagick.php on line 550
+[17-Jan-2022 15:36:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/scrubped/public_html/wp-includes/class-wp-image-editor-imagick.php on line 778
+[17-Jan-2022 15:41:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/scrubped/public_html/wp-includes/class-wp-image-editor-imagick.php on line 778

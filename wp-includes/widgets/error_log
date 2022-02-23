@@ -1,0 +1,72 @@
+[06-Aug-2021 08:41:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Aug-2021 12:39:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Aug-2021 07:52:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2021 13:00:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Aug-2021 17:50:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Aug-2021 16:49:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 18:54:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Aug-2021 03:02:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Sep-2021 21:32:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Sep-2021 04:30:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 14:23:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Sep-2021 10:53:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Sep-2021 11:46:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2021 23:04:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Sep-2021 05:14:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Sep-2021 09:40:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2021 15:41:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2021 16:29:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/scrubped/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
